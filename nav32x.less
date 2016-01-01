@@ -1,0 +1,39 @@
+.navbar-toggle {
+  border: none;
+  background: transparent !important;
+
+  &:hover {
+    background: transparent !important;
+  }
+
+  .icon-bar {
+    width: 22px;
+    transition: all 0.2s;
+
+    &:nth-of-type(1) {
+      transform: rotate(45deg);
+      transform-origin: 10% 10%;
+    }
+    &:nth-of-type(2) {
+      opacity: 0;
+    }
+    &:nth-of-type(3) {
+      transform: rotate(-45deg);
+      transform-origin: 10% 90%;
+    }
+  }
+
+  &.collapsed {
+    .icon-bar {
+      &:nth-of-type(1) {
+        transform: rotate(0);
+      }
+      &:nth-of-type(2) {
+        opacity: 1;
+      }
+      &:nth-of-type(3) {
+        transform: rotate(0);
+      }
+    }
+  }
+}
