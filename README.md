@@ -1,6 +1,5 @@
 # nav32x
-<!--Animate Bootstrap navbar-toggle button between 三 and X when collapsing -->
-Animate Bootstrap navbar-toggle button between 三 and X when collapsing
+Animate Bootstrap 3 navbar-toggle button icon bars to X when expanded.
 
 ### Installation
 
@@ -24,7 +23,9 @@ Animate Bootstrap navbar-toggle button between 三 and X when collapsing
   </button>
 ```
 
-## Reference
+## Author
 
-The code is taken and modified from here:
+Modified and published by Lee Chun Hoe (https://github.com/leechunhoe)
+
+Originated from Julien Melissas's tutorial:
 - http://julienmelissas.com/animated-x-icon-for-the-bootstrap-navbar-toggle/
