@@ -1,0 +1,23 @@
+{
+  "name": "nav32x",
+  "homepage": "https://github.com/leechunhoe/nav32x",
+  "authors": [
+    "Lee Chun Hoe"
+  ],
+  "description": "Animate Bootstrap navbar-toggle button between 三 and X when collapsing/expanding",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "navbar-toggle"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
