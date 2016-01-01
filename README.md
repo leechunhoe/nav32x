@@ -25,7 +25,7 @@ Animate Bootstrap 3 navbar-toggle button icon bars to "x" when expanded.
 
 ## Author
 
-Modified and published by Lee Chun Hoe (https://github.com/leechunhoe)
+Modified and published by Lee Chun Hoe
 
 Originated from Julien Melissas's tutorial:
 - http://julienmelissas.com/animated-x-icon-for-the-bootstrap-navbar-toggle/
