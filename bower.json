@@ -5,7 +5,7 @@
     "Lee Chun Hoe"
   ],
   "description": "Animate Bootstrap navbar-toggle button between 三 and X when collapsing/expanding",
-  "main": "",
+  "main": "nav32x.min.css",
   "moduleType": [
     "globals"
   ],
