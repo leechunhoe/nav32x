@@ -16,6 +16,7 @@ Animate Bootstrap navbar-toggle button between 三 and X when collapsing
 ```html
   <link rel='stylesheet' href='/path/to/nav32x.min.css'/>
   
+  <!-- Add .collapsed class -->
   <button class="navbar-toggle collapsed" type="button" data-target="#navbar">
     <span class="icon-bar"/>
     <span class="icon-bar"/>
@@ -23,4 +24,7 @@ Animate Bootstrap navbar-toggle button between 三 and X when collapsing
   </button>
 ```
 
-Reference: http://julienmelissas.com/animated-x-icon-for-the-bootstrap-navbar-toggle/
+## Reference
+
+The code is taken and modified from here:
+- http://julienmelissas.com/animated-x-icon-for-the-bootstrap-navbar-toggle/
