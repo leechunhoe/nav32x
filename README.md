@@ -9,6 +9,12 @@ Animate Bootstrap 3 navbar-toggle button icon bars to "x" when expanded.
    bower install nav32x
 ```
 
+- npm
+
+```bash
+   npm install nav32x
+```
+
 ### Usage
 
 - HTML
