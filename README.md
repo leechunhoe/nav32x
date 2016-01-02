@@ -1,5 +1,5 @@
 # nav32x
-Animate Bootstrap 3 navbar-toggle button icon bars to "x" when expanded.
+Animate Bootstrap 3 navbar-toggle button icon bars to "x" when navbar menu is expanded on mobile view.
 
 ### Installation
 
